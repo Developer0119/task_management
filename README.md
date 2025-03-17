@@ -8,7 +8,7 @@ Edit `settings.py`:
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'task_db',
+        'NAME': 'taskdb',
         'USER': 'task_user',
         'PASSWORD': 'yourpassword',
         'HOST': 'localhost',
